@@ -1,0 +1,15 @@
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\bin\Debug\netcoreapp3.1\Gpa-Calculator.exe
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\bin\Debug\netcoreapp3.1\Gpa-Calculator.deps.json
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\bin\Debug\netcoreapp3.1\Gpa-Calculator.runtimeconfig.json
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\bin\Debug\netcoreapp3.1\Gpa-Calculator.runtimeconfig.dev.json
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\bin\Debug\netcoreapp3.1\Gpa-Calculator.dll
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\bin\Debug\netcoreapp3.1\Gpa-Calculator.pdb
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\obj\Debug\netcoreapp3.1\Gpa-Calculator.csprojAssemblyReference.cache
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\obj\Debug\netcoreapp3.1\Gpa-Calculator.AssemblyInfoInputs.cache
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\obj\Debug\netcoreapp3.1\Gpa-Calculator.AssemblyInfo.cs
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\obj\Debug\netcoreapp3.1\Gpa-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\obj\Debug\netcoreapp3.1\Gpa-Calculator.dll
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\obj\Debug\netcoreapp3.1\Gpa-Calculator.pdb
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\obj\Debug\netcoreapp3.1\Gpa-Calculator.genruntimeconfig.cache
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\G-Mykel\source\repos\Gpa-Calculator\Gpa-Calculator\obj\Debug\netcoreapp3.1\Gpa-Calculator.csproj.CopyComplete
